@@ -1,3 +1,9 @@
+npm install react-router-dom
+npm install styled-components
+npm install react-icons
+npm install axios
+npm install prop-types
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
